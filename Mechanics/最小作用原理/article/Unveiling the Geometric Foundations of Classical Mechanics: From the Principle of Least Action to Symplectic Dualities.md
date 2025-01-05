@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Geometric Foundations of Classical Mechanics: From the Principle of Least Action to Symplectic Dualities"
 subtitle: "Discovering the Elegance of Physics through Geometry and Dualities"
-author: GPT-o1
+author: GPT-o1-preview
 ---
 
 # Unveiling the Geometric Foundations of Classical Mechanics: From the Principle of Least Action to Symplectic Dualities
