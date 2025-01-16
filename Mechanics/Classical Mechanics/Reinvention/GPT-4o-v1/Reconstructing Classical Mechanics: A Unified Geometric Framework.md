@@ -795,7 +795,7 @@ While integrable systems exhibit predictable behavior, **chaotic systems** revea
 3. **Lorenz System**:
    A simplified model of atmospheric convection, which exhibits strange attractors and chaotic dynamics.
 
-### **7.2.3 Applications**:
+### **7.2.4 Applications**:
 - **Turbulence**: Chaos underpins the irregular, unpredictable behavior of fluid flows.
 - **Quantum Chaos**: Studies how classical chaos manifests in quantum systems, linking phase space dynamics to eigenstate distributions.
 - **Control Theory**: Chaos informs methods for stabilizing nonlinear systems in engineering and biology.

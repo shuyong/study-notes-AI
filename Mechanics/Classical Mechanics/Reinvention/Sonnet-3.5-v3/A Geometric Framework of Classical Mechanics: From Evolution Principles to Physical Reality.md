@@ -124,7 +124,7 @@ Evolution necessitates additional structure:
      $$
    - Canonical one-form:
      $$
-     \theta = p_i dq^i
+     \theta = p_i \, dq^i
      $$
 
 ### **1.2.3 Natural Invariants**

@@ -158,7 +158,7 @@ At the heart of the geometric framework lies the **symplectic form** $\omega$, a
 
 1. **Definition and Properties**:
    The symplectic form $\omega$ satisfies the following essential properties:
-   - **Non-degeneracy**: For any non-zero tangent vector $v \in T_x(T^*\mathcal{M})$, there exists a $w \in T_x(T^*\mathcal{M})$ such that $\omega(v, w) \neq 0$. This ensures that the symplectic structure fully captures the geometric relationships in phase space.
+   - **Non-degeneracy**: For any non-zero tangent vector $v \in T_x(T\mathcal{M})$, there exists a $w \in T^*_x(T^*\mathcal{M})$ such that $\omega(v, w) \neq 0$. This ensures that the symplectic structure fully captures the geometric relationships in phase space.
    - **Closedness**:
      $$
      d\omega = 0,
