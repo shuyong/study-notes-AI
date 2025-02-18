@@ -25,4 +25,8 @@ AI 对关于最小作用原理的讨论的总结：
    - 最小作用量原理的展望：现代几何视角
    - https://www.zybuluo.com/shuyong/note/2574344
 
+6. GPT-o3mini
+   - From Least Action to Symplectic Geometry: A Deep Synthesis of Classical Mechanics
+   - 从最小作用量到辛几何：经典力学的深刻综合
+   - 
 

@@ -16,3 +16,9 @@ GPT-o1:
 - 经典力学中力的本质再审视：几何与变分视角
 - https://www.zybuluo.com/shuyong/note/2574983
 
+GPT-o3mini:
+
+- The Essence of Force: A Reexamination Through the Lens of Classical Mechanics
+- 力的本质：通过经典力学视角的再审视
+- 
+
