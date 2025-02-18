@@ -734,7 +734,7 @@ Below is a conceptual map illustrating the relationships between the key ideas d
 
 ```mermaid
 graph TD
-    A1[Teleology of Classical Mechanics] -->|Optimization Principles| B1[Principle of Least Action (PLA)]
+    A1[Teleology of Classical Mechanics] -->|Optimization Principles| B1["Principle of Least Action (PLA)"]
     B1 -->|Guides Motion| B2[Paths of Extremal Action]
     B1 -->|Mathematical Framework| C1[Variational Methods]
     B1 -->|Harmony| C2[Geometric Constraints]
